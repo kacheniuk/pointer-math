@@ -1,7 +1,6 @@
 public class Math {
 
-    public static final double PI = 3.14;
-    public static final int R = 178;
+    public static final int R = 12;
     public static final int H = 126;
     public static final int K = 360;
 
